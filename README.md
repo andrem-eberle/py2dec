@@ -2,6 +2,8 @@
 
 Python bytecode decompiler that converts compiled Python files (.pyc) back to readable Python source code.
 
+Python 2 only.
+
 ## Build
 
 ```bash
